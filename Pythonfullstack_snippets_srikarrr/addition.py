@@ -1,0 +1,24 @@
+a=10
+b=20
+sum=a+b
+print(sum)
+print(type(sum))
+sub=a-b
+print(sub)
+print(type(sub))
+mul=a*b
+print(mul)
+print(type(mul))
+div=a/b
+print(div)
+print(type(div))
+mod=a%b
+print(mod)
+print(type(mod))
+floordiv=a//b
+print(floordiv)
+print(type(floordiv))
+exp=a**b
+print(exp)
+print(type(exp))
+# The code above performs basic arithmetic operations on two integers and prints the results along with their types.
